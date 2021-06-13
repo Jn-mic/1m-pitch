@@ -34,7 +34,7 @@ After extracting the files,
  > ``python3 manage.py test.``
 
 ## Technologies used
-* Python3
+* Python3.8
 * Flask
 * Javascript
 * Particle Js
