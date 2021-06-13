@@ -56,7 +56,6 @@ After extracting the files,
 >Login Inputs
 
 | Inputs |  Description |
-|           |                              |
 | Username  | Account username, ``eg Jack``|
 | Password  | Account password, ``eg Password``|
 
