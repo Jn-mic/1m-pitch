@@ -40,7 +40,7 @@ After extracting the files,
 * Particle Js
 * Html5
 * Css3
-* Bootstrap4
+* Bootstrap
 
 ## User Stories
 * As a user, I would like to see the pitches other people have posted.
@@ -57,8 +57,8 @@ After extracting the files,
 
 | Inputs |  Description |
 | :---         |          ---: |
-| Username  | Account username, ``eg john``|
-| Password  | Account password, ``eg password``|
+| Username  | Account username, ``eg Jack``|
+| Password  | Account password, ``eg Password``|
 
 >Sign-up inputs
 | Inputs |  Description |
