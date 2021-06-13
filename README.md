@@ -62,7 +62,7 @@ After extracting the files,
 >Sign-up inputs
 | Inputs |  Description |
 | Username  | Account username, ``eg john``|
-| Email  | User email, ``eg morty@testmail.com``|
+| Email  | User email, ``eg doty@testmail.com``|
 | Password  | Account password, ``eg password``|
 | Confirm Password  | Account password, ``eg password``|
 
