@@ -39,7 +39,7 @@ After extracting the files,
 * Javascript
 * Particle Js
 * Html5
-* Css3
+* Css
 * Bootstrap
 
 ## User Stories
