@@ -82,4 +82,4 @@ After extracting the files,
 > MIT License &copy; 2021 Jack  Owuor.
 
 ## Collaborate
-To collaborate, reach me on [jackotienokey@gmail.com]()
+To collaborate, reach me on:[jackotienokey@gmail.com]()
