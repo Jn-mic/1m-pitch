@@ -62,7 +62,6 @@ After extracting the files,
 
 >Sign-up inputs
 | Inputs |  Description |
-| :---         |          ---: |
 | Username  | Account username, ``eg john``|
 | Email  | User email, ``eg morty@testmail.com``|
 | Password  | Account password, ``eg password``|
@@ -71,7 +70,6 @@ After extracting the files,
 > Pitches inputs
 
 | Inputs | Description  |
-|---|---|
 |  Heading | Pitch description eg; ``pickup lines``  |
 |  Pitch text| The actual pitch body|
 | Comment| A comment on the pitch|
