@@ -4,11 +4,6 @@
 ## Author
 >  Jack Owuor.
 
-## Screenshots
-<img src="https://github.com/jn-mic/1m-Pitch/blob/master/app/static/assets/shot.png?raw=true" width="1000">
-<img src="https://github.com/jn-mic/1m-Pitch/blob/master/app/static/assets/shot2.png?raw=true" width="1000">
-
-
 ## Installations
 
 The following command installs all the application requirements
@@ -66,7 +61,6 @@ After extracting the files,
 | Password  | Account password, ``eg password``|
 
 >Sign-up inputs
-
 | Inputs |  Description |
 | :---         |          ---: |
 | Username  | Account username, ``eg john``|
