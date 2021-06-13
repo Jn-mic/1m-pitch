@@ -24,7 +24,7 @@ After extracting the files,
 >``virtual env virtual.``
 
 3. Activating the virtual environment
->``source virtual/bin/activate.``
+>``source venv/bin/activate.``
 
 4. Running the application
 >``python3 manage.py server``
@@ -68,7 +68,7 @@ After extracting the files,
 
 > Pitches inputs
 
-| Inputs | Description  |
+| Inputs | Description 
 |  Heading | Pitch description eg; ``pickup lines``  |
 |  Pitch text| The actual pitch body|
 | Comment| A comment on the pitch|
