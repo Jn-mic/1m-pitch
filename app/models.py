@@ -99,10 +99,10 @@ class Upvote(db.Model):
         upvote_post = Upvote(user=current_user, post_id=id)
         upvote_post.save()
 
-    @classmethod
-    def query_up_votes(cls, id):
-        upvote = Upvote.query.filter_by(post_id=id).all()
-        return upvote
+    # @classmethod
+    # def query_up_votes(cls, id):
+    #     # upvote = Upvote.query.filter_by(post_id=id).all()
+    #     return upvote
 
     @classmethod
     def all_up_votes(cls):
