@@ -9,7 +9,6 @@ class Config:
     debug = True
     SECRET_KEY = 'qwertyuiop'
 
-
     #  email configurations
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 465
