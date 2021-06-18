@@ -7,7 +7,8 @@ ld()
 
 class Config:
     debug = True
-    SECRET_KEY = 'qwertyuiop'
+    # forms secret key
+    SECRET_KEY = 'jackt'
 
     #  email configurations
     MAIL_SERVER = 'smtp.gmail.com'
