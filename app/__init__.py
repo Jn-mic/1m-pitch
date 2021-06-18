@@ -1,10 +1,9 @@
-from flask import Flask
 from config import config_options
-from flask_mail import Mail
-from flask_login import LoginManager, login_manager
+from flask import Flask
 from flask_bootstrap import Bootstrap
+from flask_login import LoginManager, login_manager
+from flask_mail import Mail
 from flask_sqlalchemy import SQLAlchemy
-
 
 db = SQLAlchemy()
 mail = Mail()

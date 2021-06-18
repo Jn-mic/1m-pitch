@@ -1,9 +1,9 @@
-from flask import render_template, redirect, url_for
-from flask_login import login_required, current_user
+from flask import redirect, render_template, url_for
+from flask_login import current_user, login_required
 
+from ..models import Comment, Downvote, Post, Upvote, User
 from . import main
-from .forms import PostForm, CommentForm, UpdateProfile
-from ..models import Post, Comment, User, Upvote, Downvote
+from .forms import CommentForm, PostForm, UpdateProfile
 
 
 @main.route('/')
